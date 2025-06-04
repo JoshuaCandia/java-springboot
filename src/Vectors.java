@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Vectors {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int vector[] = new int[4];
+        int[] vector = new int[4];
 
         for (int i = 0; i < vector.length; i++) {
             System.out.println("Ingrese un número");
